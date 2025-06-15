@@ -1,0 +1,3 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Rayanitoo/discord/refs/heads/main/discord'))()
+--made by Rayan
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Rayanitoo/da-bot/refs/heads/main/made%20by%20Rayan'))()
